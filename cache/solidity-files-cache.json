@@ -6,7 +6,7 @@
       "contentHash": "4c2d943a588690fc53dc7fb9b71d0d78",
       "sourceName": "contracts/Exchange.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -46,7 +46,7 @@
       "contentHash": "ad7c2d0af148c8f9f097d65deeb4da6b",
       "sourceName": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -81,7 +81,7 @@
       "contentHash": "909ab67fc5c25033fe6cd364f8c056f9",
       "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -118,7 +118,7 @@
       "contentHash": "834a0dde221759af42b030253315b086",
       "sourceName": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -157,7 +157,7 @@
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -192,7 +192,7 @@
       "contentHash": "18b0d77e8068a6902790acd3ecd43066",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -229,7 +229,7 @@
       "contentHash": "7c03dd691a23d5563363a3d1b94c0f70",
       "sourceName": "contracts/Factory.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
             "enabled": false,
